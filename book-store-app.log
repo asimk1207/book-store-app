@@ -1,0 +1,195 @@
+2022-10-24 07:55:07.223  INFO 23500 --- [Thread-10] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-10-24 07:55:07.233  INFO 23500 --- [Thread-10] o.a.c.c.C.[.[localhost].[/bookstore]     : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-10-24 07:55:07.467  INFO 23500 --- [Thread-10] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2022-10-24 07:55:07.469  INFO 23500 --- [Thread-10] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2022-10-24 07:55:07.660  INFO 23500 --- [restartedMain] com.store.book.BookStoreApplication      : Starting BookStoreApplication using Java 1.8.0_311 on WK-11391 with PID 23500 (C:\Asim\Study\book-store-app\target\classes started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 07:55:07.660  INFO 23500 --- [restartedMain] com.store.book.BookStoreApplication      : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 07:55:08.647  INFO 23500 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-24 07:55:08.647  INFO 23500 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-10-24 07:55:08.661  INFO 23500 --- [restartedMain] o.a.c.c.C.[.[localhost].[/bookstore]     : Initializing Spring embedded WebApplicationContext
+2022-10-24 07:55:08.707  INFO 23500 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2022-10-24 07:55:08.709  INFO 23500 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2022-10-24 07:55:08.890  INFO 23500 --- [restartedMain] com.store.book.BookStoreApplication      : Started BookStoreApplication in 1.272 seconds (JVM running for 53103.705)
+2022-10-24 07:55:12.414  INFO 23500 --- [Thread-14] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-10-24 07:55:12.627  INFO 23500 --- [Thread-14] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown initiated...
+2022-10-24 07:55:12.630  INFO 23500 --- [Thread-14] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown completed.
+2022-10-24 07:55:12.867  INFO 23500 --- [restartedMain] com.store.book.BookStoreApplication      : Starting BookStoreApplication using Java 1.8.0_311 on WK-11391 with PID 23500 (C:\Asim\Study\book-store-app\target\classes started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 07:55:12.867  INFO 23500 --- [restartedMain] com.store.book.BookStoreApplication      : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 07:55:13.286  INFO 23500 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-24 07:55:13.286  INFO 23500 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-10-24 07:55:13.308  INFO 23500 --- [restartedMain] o.a.c.c.C.[.[localhost].[/bookstore]     : Initializing Spring embedded WebApplicationContext
+2022-10-24 07:55:13.353  INFO 23500 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Starting...
+2022-10-24 07:55:13.354  INFO 23500 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Start completed.
+2022-10-24 07:55:13.647  INFO 23500 --- [restartedMain] com.store.book.BookStoreApplication      : Started BookStoreApplication in 0.813 seconds (JVM running for 53108.462)
+2022-10-24 07:55:18.061  INFO 8664 --- [main] c.store.book.BookStoreApplicationTests   : Starting BookStoreApplicationTests using Java 1.8.0_311 on WK-11391 with PID 8664 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 07:55:18.062  INFO 8664 --- [main] c.store.book.BookStoreApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 07:55:20.592  INFO 8664 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-10-24 07:55:20.993  INFO 8664 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-10-24 07:55:24.389  INFO 8664 --- [main] c.store.book.BookStoreApplicationTests   : Started BookStoreApplicationTests in 6.632 seconds (JVM running for 7.682)
+2022-10-24 07:55:24.756  INFO 8664 --- [main] c.s.b.c.BookManagementControllerTests    : Starting BookManagementControllerTests using Java 1.8.0_311 on WK-11391 with PID 8664 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 07:55:24.757  INFO 8664 --- [main] c.s.b.c.BookManagementControllerTests    : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 07:55:25.486  INFO 8664 --- [main] c.s.b.c.BookManagementControllerTests    : Started BookManagementControllerTests in 0.774 seconds (JVM running for 8.78)
+2022-10-24 07:55:25.583  INFO 8664 --- [main] c.s.b.c.BookManagementController         : No Books found
+2022-10-24 07:55:25.860  INFO 8664 --- [main] c.s.b.c.BookManagementController         : Updating Book
+2022-10-24 07:55:25.869  INFO 8664 --- [main] c.s.b.c.BookManagementController         : Saving new Book
+2022-10-24 07:55:26.015  INFO 8664 --- [main] com.store.book.service.BookServiceTests  : Starting BookServiceTests using Java 1.8.0_311 on WK-11391 with PID 8664 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 07:55:26.016  INFO 8664 --- [main] com.store.book.service.BookServiceTests  : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 07:55:26.486  INFO 8664 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2022-10-24 07:55:26.487  INFO 8664 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2022-10-24 07:55:27.199  INFO 8664 --- [main] com.store.book.service.BookServiceTests  : Started BookServiceTests in 1.207 seconds (JVM running for 10.492)
+2022-10-24 07:55:27.216  INFO 8664 --- [main] c.s.book.service.impl.BookServiceImpl    : Saving Book [BookDTO(bookId=null, name=First Book, description=First Book Description, author=AuthorName1, isbn=ISBN-1, price=100, bookType=null)]
+2022-10-24 07:55:27.260  INFO 8664 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching all books
+2022-10-24 07:55:27.268  INFO 8664 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching Book [id = 0]
+2022-10-24 07:55:27.273  INFO 8664 --- [main] c.s.book.service.impl.BookServiceImpl    : Updating Book [id = 1]
+2022-10-24 07:55:27.287  INFO 8664 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching Book [Name = ]
+2022-10-24 07:55:27.292  INFO 8664 --- [main] c.s.book.service.impl.BookServiceImpl    : Deleting Book [id = 0]
+2022-10-24 07:55:27.293  INFO 8664 --- [main] c.s.book.service.impl.BookServiceImpl    : Book [id = 0] deleted successfully
+2022-10-24 07:55:27.298  INFO 8664 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching Book [Name = First Book, Author = AuthorName1, ISBN = ISBN-1]
+2022-10-24 07:55:27.326  INFO 8664 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-10-24 07:55:27.329  INFO 8664 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-10-24 07:55:27.336  INFO 8664 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2022-10-24 07:55:27.338  INFO 8664 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2022-10-24 07:56:21.111  INFO 732 --- [main] com.store.book.service.BookServiceTests  : Starting BookServiceTests using Java 1.8.0_311 on WK-11391 with PID 732 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 07:56:21.112  INFO 732 --- [main] com.store.book.service.BookServiceTests  : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 07:56:23.225  INFO 732 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-10-24 07:56:23.435  INFO 732 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-10-24 07:56:26.075  INFO 732 --- [main] com.store.book.service.BookServiceTests  : Started BookServiceTests in 5.241 seconds (JVM running for 6.257)
+2022-10-24 07:56:26.235  INFO 732 --- [main] c.s.book.service.impl.BookServiceImpl    : Saving Book [BookDTO(bookId=null, name=First Book, description=First Book Description, author=AuthorName1, isbn=ISBN-1, price=100, bookType=null)]
+2022-10-24 07:56:26.306  INFO 732 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching all books
+2022-10-24 07:56:26.315  INFO 732 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching Book [id = 0]
+2022-10-24 07:56:26.320  INFO 732 --- [main] c.s.book.service.impl.BookServiceImpl    : Updating Book [id = 1]
+2022-10-24 07:56:26.339  INFO 732 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching Book [Name = ]
+2022-10-24 07:56:26.345  INFO 732 --- [main] c.s.book.service.impl.BookServiceImpl    : Deleting Book [id = 0]
+2022-10-24 07:56:26.346  INFO 732 --- [main] c.s.book.service.impl.BookServiceImpl    : Book [id = 0] deleted successfully
+2022-10-24 07:56:26.352  INFO 732 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching Book [Name = First Book, Author = AuthorName1, ISBN = ISBN-1]
+2022-10-24 07:56:26.370  INFO 732 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-10-24 07:56:26.372  INFO 732 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-10-24 07:57:23.983  INFO 12388 --- [main] com.store.book.service.BookServiceTests  : Starting BookServiceTests using Java 1.8.0_311 on WK-11391 with PID 12388 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 07:57:23.985  INFO 12388 --- [main] com.store.book.service.BookServiceTests  : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 07:57:27.125  INFO 12388 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-10-24 07:57:27.409  INFO 12388 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-10-24 07:57:30.741  INFO 12388 --- [main] com.store.book.service.BookServiceTests  : Started BookServiceTests in 7.153 seconds (JVM running for 8.637)
+2022-10-24 07:57:32.499  INFO 12388 --- [main] c.s.book.service.impl.BookServiceImpl    : Updating Book [id = 1]
+2022-10-24 07:57:52.168  INFO 12388 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-10-24 07:57:52.172  INFO 12388 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-10-24 08:00:23.879  INFO 18444 --- [main] com.store.book.service.BookServiceTests  : Starting BookServiceTests using Java 1.8.0_311 on WK-11391 with PID 18444 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 08:00:23.881  INFO 18444 --- [main] com.store.book.service.BookServiceTests  : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 08:00:26.820  INFO 18444 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-10-24 08:00:27.095  INFO 18444 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-10-24 08:00:30.285  INFO 18444 --- [main] com.store.book.service.BookServiceTests  : Started BookServiceTests in 6.786 seconds (JVM running for 8.271)
+2022-10-24 08:00:35.278  INFO 18444 --- [main] c.s.book.service.impl.BookServiceImpl    : Updating Book [id = 1]
+2022-10-24 08:01:52.955  INFO 10592 --- [main] com.store.book.service.BookServiceTests  : Starting BookServiceTests using Java 1.8.0_311 on WK-11391 with PID 10592 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 08:01:52.957  INFO 10592 --- [main] com.store.book.service.BookServiceTests  : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 08:01:55.066  INFO 10592 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-10-24 08:01:55.265  INFO 10592 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-10-24 08:02:03.440  INFO 16100 --- [main] com.store.book.service.BookServiceTests  : Starting BookServiceTests using Java 1.8.0_311 on WK-11391 with PID 16100 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 08:02:03.442  INFO 16100 --- [main] com.store.book.service.BookServiceTests  : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 08:02:05.550  INFO 16100 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-10-24 08:02:05.753  INFO 16100 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-10-24 08:02:08.154  INFO 16100 --- [main] com.store.book.service.BookServiceTests  : Started BookServiceTests in 4.979 seconds (JVM running for 6.028)
+2022-10-24 08:02:08.307  INFO 16100 --- [main] c.s.book.service.impl.BookServiceImpl    : Updating Book [id = 1]
+2022-10-24 08:02:08.368  INFO 16100 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-10-24 08:02:08.369  INFO 16100 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-10-24 08:02:39.936  INFO 19648 --- [main] com.store.book.service.BookServiceTests  : Starting BookServiceTests using Java 1.8.0_311 on WK-11391 with PID 19648 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 08:02:39.937  INFO 19648 --- [main] com.store.book.service.BookServiceTests  : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 08:02:42.094  INFO 19648 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-10-24 08:02:42.292  INFO 19648 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-10-24 08:02:44.834  INFO 19648 --- [main] com.store.book.service.BookServiceTests  : Started BookServiceTests in 5.183 seconds (JVM running for 6.228)
+2022-10-24 08:02:45.006  INFO 19648 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-10-24 08:02:45.008  INFO 19648 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-10-24 08:04:34.954  INFO 12232 --- [main] com.store.book.service.BookServiceTests  : Starting BookServiceTests using Java 1.8.0_311 on WK-11391 with PID 12232 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 08:04:34.956  INFO 12232 --- [main] com.store.book.service.BookServiceTests  : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 08:04:37.208  INFO 12232 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-10-24 08:04:37.411  INFO 12232 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-10-24 08:04:39.883  INFO 12232 --- [main] com.store.book.service.BookServiceTests  : Started BookServiceTests in 5.207 seconds (JVM running for 6.219)
+2022-10-24 08:04:40.028  INFO 12232 --- [main] c.s.book.service.impl.BookServiceImpl    : Updating Book [id = 1]
+2022-10-24 08:04:40.066  INFO 12232 --- [main] c.s.book.service.impl.BookServiceImpl    : Book [id = 1] updated successfully
+2022-10-24 08:04:40.104  INFO 12232 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-10-24 08:04:40.106  INFO 12232 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-10-24 08:04:57.675  INFO 10592 --- [main] c.store.book.BookStoreApplicationTests   : Starting BookStoreApplicationTests using Java 1.8.0_311 on WK-11391 with PID 10592 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 08:04:57.676  INFO 10592 --- [main] c.store.book.BookStoreApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 08:04:59.501  INFO 10592 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-10-24 08:04:59.700  INFO 10592 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-10-24 08:05:02.109  INFO 10592 --- [main] c.store.book.BookStoreApplicationTests   : Started BookStoreApplicationTests in 4.711 seconds (JVM running for 5.744)
+2022-10-24 08:05:02.393  INFO 10592 --- [main] c.s.b.c.BookManagementControllerTests    : Starting BookManagementControllerTests using Java 1.8.0_311 on WK-11391 with PID 10592 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 08:05:02.394  INFO 10592 --- [main] c.s.b.c.BookManagementControllerTests    : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 08:05:02.983  INFO 10592 --- [main] c.s.b.c.BookManagementControllerTests    : Started BookManagementControllerTests in 0.621 seconds (JVM running for 6.618)
+2022-10-24 08:05:03.041  INFO 10592 --- [main] c.s.b.c.BookManagementController         : No Books found
+2022-10-24 08:05:03.280  INFO 10592 --- [main] c.s.b.c.BookManagementController         : Updating Book
+2022-10-24 08:05:03.290  INFO 10592 --- [main] c.s.b.c.BookManagementController         : Saving new Book
+2022-10-24 08:05:03.456  INFO 10592 --- [main] com.store.book.service.BookServiceTests  : Starting BookServiceTests using Java 1.8.0_311 on WK-11391 with PID 10592 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 08:05:03.457  INFO 10592 --- [main] com.store.book.service.BookServiceTests  : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 08:05:03.871  INFO 10592 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2022-10-24 08:05:03.872  INFO 10592 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2022-10-24 08:05:04.510  INFO 10592 --- [main] com.store.book.service.BookServiceTests  : Started BookServiceTests in 1.079 seconds (JVM running for 8.145)
+2022-10-24 08:05:04.526  INFO 10592 --- [main] c.s.book.service.impl.BookServiceImpl    : Saving Book [BookDTO(bookId=null, name=First Book, description=First Book Description, author=AuthorName1, isbn=ISBN-1, price=100, bookType=null)]
+2022-10-24 08:05:04.572  INFO 10592 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching all books
+2022-10-24 08:05:04.578  INFO 10592 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching Book [id = 0]
+2022-10-24 08:05:04.583  INFO 10592 --- [main] c.s.book.service.impl.BookServiceImpl    : Updating Book [id = 1]
+2022-10-24 08:05:04.584  INFO 10592 --- [main] c.s.book.service.impl.BookServiceImpl    : Book [id = 1] updated successfully
+2022-10-24 08:05:04.590  INFO 10592 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching Book [Name = ]
+2022-10-24 08:05:04.596  INFO 10592 --- [main] c.s.book.service.impl.BookServiceImpl    : Deleting Book [id = 0]
+2022-10-24 08:05:04.596  INFO 10592 --- [main] c.s.book.service.impl.BookServiceImpl    : Book [id = 0] deleted successfully
+2022-10-24 08:05:04.601  INFO 10592 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching Book [Name = First Book, Author = AuthorName1, ISBN = ISBN-1]
+2022-10-24 08:05:04.622  INFO 10592 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-10-24 08:05:04.624  INFO 10592 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-10-24 08:05:04.631  INFO 10592 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2022-10-24 08:05:04.633  INFO 10592 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2022-10-24 08:06:27.374  INFO 22900 --- [main] c.store.book.BookStoreApplicationTests   : Starting BookStoreApplicationTests using Java 1.8.0_311 on WK-11391 with PID 22900 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 08:06:27.375  INFO 22900 --- [main] c.store.book.BookStoreApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 08:06:29.380  INFO 22900 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-10-24 08:06:29.582  INFO 22900 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-10-24 08:06:32.082  INFO 22900 --- [main] c.store.book.BookStoreApplicationTests   : Started BookStoreApplicationTests in 4.993 seconds (JVM running for 5.976)
+2022-10-24 08:06:32.325  INFO 22900 --- [main] c.s.b.c.BookManagementControllerTests    : Starting BookManagementControllerTests using Java 1.8.0_311 on WK-11391 with PID 22900 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 08:06:32.326  INFO 22900 --- [main] c.s.b.c.BookManagementControllerTests    : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 08:06:32.864  INFO 22900 --- [main] c.s.b.c.BookManagementControllerTests    : Started BookManagementControllerTests in 0.573 seconds (JVM running for 6.758)
+2022-10-24 08:06:32.940  INFO 22900 --- [main] c.s.b.c.BookManagementController         : No Books found
+2022-10-24 08:06:33.184  INFO 22900 --- [main] c.s.b.c.BookManagementController         : Updating Book
+2022-10-24 08:06:33.194  INFO 22900 --- [main] c.s.b.c.BookManagementController         : Saving new Book
+2022-10-24 08:06:33.349  INFO 22900 --- [main] com.store.book.service.BookServiceTests  : Starting BookServiceTests using Java 1.8.0_311 on WK-11391 with PID 22900 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 08:06:33.350  INFO 22900 --- [main] com.store.book.service.BookServiceTests  : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 08:06:33.746  INFO 22900 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2022-10-24 08:06:33.747  INFO 22900 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2022-10-24 08:06:34.438  INFO 22900 --- [main] com.store.book.service.BookServiceTests  : Started BookServiceTests in 1.113 seconds (JVM running for 8.332)
+2022-10-24 08:06:34.454  INFO 22900 --- [main] c.s.book.service.impl.BookServiceImpl    : Saving Book [BookDTO(bookId=null, name=First Book, description=First Book Description, author=AuthorName1, isbn=ISBN-1, price=100, bookType=null)]
+2022-10-24 08:06:34.491  INFO 22900 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching all books
+2022-10-24 08:06:34.496  INFO 22900 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching Book [id = 0]
+2022-10-24 08:06:34.500  INFO 22900 --- [main] c.s.book.service.impl.BookServiceImpl    : Updating Book [id = 1]
+2022-10-24 08:06:34.501  INFO 22900 --- [main] c.s.book.service.impl.BookServiceImpl    : Book [id = 1] updated successfully
+2022-10-24 08:06:34.507  INFO 22900 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching Book [Name = ]
+2022-10-24 08:06:34.511  INFO 22900 --- [main] c.s.book.service.impl.BookServiceImpl    : Deleting Book [id = 0]
+2022-10-24 08:06:34.511  INFO 22900 --- [main] c.s.book.service.impl.BookServiceImpl    : Book [id = 0] deleted successfully
+2022-10-24 08:06:34.515  INFO 22900 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching Book [Name = First Book, Author = AuthorName1, ISBN = ISBN-1]
+2022-10-24 08:06:34.532  INFO 22900 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-10-24 08:06:34.534  INFO 22900 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-10-24 08:06:34.539  INFO 22900 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2022-10-24 08:06:34.541  INFO 22900 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2022-10-24 08:07:15.613  INFO 22196 --- [main] c.store.book.BookStoreApplicationTests   : Starting BookStoreApplicationTests using Java 1.8.0_311 on WK-11391 with PID 22196 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 08:07:15.615  INFO 22196 --- [main] c.store.book.BookStoreApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 08:07:17.480  INFO 22196 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-10-24 08:07:17.692  INFO 22196 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-10-24 08:07:20.493  INFO 22196 --- [main] c.store.book.BookStoreApplicationTests   : Started BookStoreApplicationTests in 5.175 seconds (JVM running for 6.131)
+2022-10-24 08:07:20.786  INFO 22196 --- [main] c.s.b.c.BookManagementControllerTests    : Starting BookManagementControllerTests using Java 1.8.0_311 on WK-11391 with PID 22196 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 08:07:20.787  INFO 22196 --- [main] c.s.b.c.BookManagementControllerTests    : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 08:07:21.453  INFO 22196 --- [main] c.s.b.c.BookManagementControllerTests    : Started BookManagementControllerTests in 0.704 seconds (JVM running for 7.091)
+2022-10-24 08:07:21.518  INFO 22196 --- [main] c.s.b.c.BookManagementController         : No Books found
+2022-10-24 08:07:21.815  INFO 22196 --- [main] c.s.b.c.BookManagementController         : Updating Book
+2022-10-24 08:07:21.826  INFO 22196 --- [main] c.s.b.c.BookManagementController         : Saving new Book
+2022-10-24 08:07:22.033  INFO 22196 --- [main] com.store.book.service.BookServiceTests  : Starting BookServiceTests using Java 1.8.0_311 on WK-11391 with PID 22196 (started by infovista.asim in C:\Asim\Study\book-store-app)
+2022-10-24 08:07:22.033  INFO 22196 --- [main] com.store.book.service.BookServiceTests  : No active profile set, falling back to 1 default profile: "default"
+2022-10-24 08:07:22.531  INFO 22196 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2022-10-24 08:07:22.533  INFO 22196 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2022-10-24 08:07:23.282  INFO 22196 --- [main] com.store.book.service.BookServiceTests  : Started BookServiceTests in 1.276 seconds (JVM running for 8.92)
+2022-10-24 08:07:23.301  INFO 22196 --- [main] c.s.book.service.impl.BookServiceImpl    : Saving Book [BookDTO(bookId=null, name=First Book, description=First Book Description, author=AuthorName1, isbn=ISBN-1, price=100, bookType=null)]
+2022-10-24 08:07:23.348  INFO 22196 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching all books
+2022-10-24 08:07:23.355  INFO 22196 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching Book [id = 0]
+2022-10-24 08:07:23.360  INFO 22196 --- [main] c.s.book.service.impl.BookServiceImpl    : Updating Book [id = 1]
+2022-10-24 08:07:23.361  INFO 22196 --- [main] c.s.book.service.impl.BookServiceImpl    : Book [id = 1] updated successfully
+2022-10-24 08:07:23.365  INFO 22196 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching Book [Name = ]
+2022-10-24 08:07:23.370  INFO 22196 --- [main] c.s.book.service.impl.BookServiceImpl    : Deleting Book [id = 0]
+2022-10-24 08:07:23.370  INFO 22196 --- [main] c.s.book.service.impl.BookServiceImpl    : Book [id = 0] deleted successfully
+2022-10-24 08:07:23.374  INFO 22196 --- [main] c.s.book.service.impl.BookServiceImpl    : Fetching Book [Name = First Book, Author = AuthorName1, ISBN = ISBN-1]
+2022-10-24 08:07:23.394  INFO 22196 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-10-24 08:07:23.396  INFO 22196 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-10-24 08:07:23.402  INFO 22196 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2022-10-24 08:07:23.404  INFO 22196 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
